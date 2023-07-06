@@ -17,8 +17,6 @@
 ### Creador de contenido en
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Davichobits&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davichobits&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Davichobits/Davichobits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
