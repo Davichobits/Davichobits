@@ -17,6 +17,22 @@
 ### Creador de contenido en
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
+►CURSOS QUE IMPARTO:
+
+📕HTML5: https://bit.ly/CodingHTML01
+
+📘CSS3: https://bit.ly/CodingCSS01
+
+📙Javascript: http://bit.ly/CodingJS01
+
+📔 Tailwind: http://bit.ly/Tailwind01
+
+►LISTAS DE REPRODUCCIÓN RECOMENDADAS:
+
+📒Etiquetas HTML: https://bit.ly/HTMLShorts
+
+📗Todos los retos frontend: https://bit.ly/CodingRetos
+
 
 <!--
 **Davichobits/Davichobits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
