@@ -17,7 +17,7 @@
 ### Creador de contenido en
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-►CURSOS QUE IMPARTO:
+►CURSOS EN EL CANAL:
 
 📕HTML5: https://bit.ly/CodingHTML01
 
