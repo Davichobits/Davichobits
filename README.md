@@ -30,7 +30,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davichobits&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Davichobits" />
 
-### Content creator in
+### Content creator on
 
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
