@@ -1,24 +1,5 @@
 ### I use the following technologies:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material](https://img.shields.io/badge/material%20ui-%23007fff.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23f24e1e.svg?style=for-the-badge&logo=figma&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Typescript](https://img.shields.io/badge/typescript-%233178c6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Dart](https://img.shields.io/badge/dart-%f1f1f1f1.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-%23F7DF1E.svg?style=for-the-badge&logo=flutter&logoColor=blue)
-![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=NPM&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![axios](https://img.shields.io/badge/axios-%235a29e4.svg?style=for-the-badge&logo=axios&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-%23ff6c37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![VSC](https://img.shields.io/badge/VISUAL%20studio%20code-%23007acc.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,figma,js,ts,react,firebase,dart,flutter,git,github,gitlab,jest,vitest,md,netlify,npm,yarn,postman,vite,vscode)](https://skillicons.dev)
 
 ### My Github Stats:
 
