@@ -14,7 +14,7 @@
 ### Content creator on
 
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-
+<!--
 ►CURSOS EN EL CANAL:
 
 📕HTML5: https://bit.ly/CodingHTML01
@@ -32,7 +32,7 @@
 📗Todos los retos frontend: https://bit.ly/CodingRetos
 
 
-<!--
+
 **Davichobits/Davichobits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
