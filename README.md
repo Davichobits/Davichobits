@@ -1,5 +1,5 @@
 ### I use the following technologies:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,figma,js,ts,react,firebase,dart,flutter,git,github,gitlab,jest,vitest,md,netlify,npm,yarn,postman,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,figma,js,ts,react,next,firebase,dart,flutter,git,github,gitlab,jest,vitest,md,netlify,npm,yarn,postman,vite,vscode)](https://skillicons.dev)
 
 ### My Github Stats:
 
