@@ -1,5 +1,9 @@
 ### I use the following technologies:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,figma,js,ts,react,next,firebase,dart,flutter,git,github,gitlab,jest,vitest,md,netlify,npm,yarn,postman,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,tailwind,materialui,figma,js,ts,react,threejs,firebase,dart,flutter,git,github,gitlab,jest,vitest,md,netlify,npm,yarn,postman,vite,vscode)](https://skillicons.dev)
+
+### Content creator on
+
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 ### My Github Stats:
 
@@ -11,9 +15,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davichobits&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Davichobits" />
 
-### Content creator on
 
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 <!--
 ►CURSOS EN EL CANAL:
 
