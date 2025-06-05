@@ -15,7 +15,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davichobits&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Davichobits" />
 
-<!-- GitAds-Verify: UEWBTOPQAHNZHHKZYHXDXWRN4MSI9UOB -->
+<!-- GitAds-Verify: RISFNNCKBSA452NU5MXIORKENA56E6E6 -->
 
 
 <!--
