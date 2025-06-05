@@ -17,6 +17,11 @@
 
 <!-- GitAds-Verify: RISFNNCKBSA452NU5MXIORKENA56E6E6 -->
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=davichobits/davichobits@github)](https://gitads.dev/v1/ad-track?source=davichobits/davichobits@github)
+
+
+
 
 <!--
 ►CURSOS EN EL CANAL:
