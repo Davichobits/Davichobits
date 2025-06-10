@@ -1,5 +1,5 @@
 ### I use the following technologies:
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,tailwind,materialui,figma,js,ts,react,threejs,phaser,firebase,dart,flutter,git,github,gitlab,jest,vitest,md,netlify,npm,yarn,postman,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,tailwind,materialui,figma,js,ts,react,nextjs,phaser,firebase,dart,flutter,git,github,gitlab,jest,vitest,md,netlify,npm,yarn,postman,vite,vscode)](https://skillicons.dev)
 
 ### Content creator on
 
