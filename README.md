@@ -9,9 +9,12 @@
 ### Frameworks and libraries:
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,astro,nextjs,phaser,flutter)](https://skillicons.dev)
 
+### Testing:
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jest,vitest,testinglibrary)](https://skillicons.dev)
+
 ### Other tools:
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,zustand,redux,firebase,git,github,gitlab,jest,vitest,md,vercel,netlify,npm,yarn,postman,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,zustand,redux,firebase,git,github,gitlab,md,vercel,netlify,npm,yarn,postman,vite,vscode)](https://skillicons.dev)
 <!--
 [My Skills](http[s://go-skill-icons.vercel.app/api/icons?i=html,css,sass,tailwind,materialui,figma,js,ts,react,zustand,redux,nextjs,phaser,firebase,dart,flutter,git,github,gitlab,jest,vitest,md,vercel,netlify,npm,yarn,postman,vite,vscode)](https://skillicons.dev)](url)
 -->
