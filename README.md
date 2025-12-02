@@ -4,7 +4,7 @@
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,tailwind,materialui)](https://skillicons.dev)
 
 ### Languages:
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,dart)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,dart,python)](https://skillicons.dev)
 
 ### Frameworks and libraries:
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,astro,nextjs,phaser,flutter)](https://skillicons.dev)
