@@ -10,7 +10,7 @@
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,zustand,redux,nextjs,astro,flutter)](https://skillicons.dev)
 
 ### Testing:
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jest,vitest,testinglibrary)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jest,vitest,testinglibrary,playwright)](https://skillicons.dev)
 
 ### Other tools:
 
