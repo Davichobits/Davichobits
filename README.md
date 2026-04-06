@@ -1,17 +1,22 @@
-## I use the following technologies:
+## 🚀 Tech Stack
 
-| Languages | Styles |
-|----------|--------|
-| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,dart,python)](https://skillicons.dev) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,tailwind,materialui)](https://skillicons.dev) |
+### 🧠 Languages
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,dart)](https://skillicons.dev)
 
-| Frameworks and libraries | Testing |
-|--------------------------|---------|
-| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,zustand,redux,nextjs,astro,flutter)](https://skillicons.dev) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jest,vitest,testinglibrary,playwright)](https://skillicons.dev) |
+### 🎨 Frontend (Web)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,astro,redux,zustand,html,css,sass,tailwind,materialui)](https://skillicons.dev)
 
-| Other tools |
-|-------------|
-| [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,firebase,git,github,gitlab,vercel,netlify,npm,yarn,postman,vite)](https://skillicons.dev) |
-<!--
+### 📱 Mobile
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter)](https://skillicons.dev)
+
+### ⚙️ Backend / Runtime
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,firebase)](https://skillicons.dev)
+
+### 🧪 Testing
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vitest,jest,testinglibrary,playwright)](https://skillicons.dev)
+
+### 🛠️ Tools & Platforms
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,vercel,netlify,npm,yarn,vite,postman,figma)](https://skillicons.dev)<!--
 [My Skills](http[s://go-skill-icons.vercel.app/api/icons?i=html,css,sass,tailwind,materialui,figma,js,ts,react,zustand,redux,nextjs,phaser,firebase,dart,flutter,git,github,gitlab,jest,vitest,md,vercel,netlify,npm,yarn,postman,vite,vscode)](https://skillicons.dev)](url)
 -->
 ### Content creator on
