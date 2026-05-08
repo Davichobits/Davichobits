@@ -10,7 +10,7 @@
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter)](https://skillicons.dev)
 
 ### ⚙️ Backend / Runtime
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,firebase)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,pug,mongodb,firebase)](https://skillicons.dev)
 
 ### 🧪 Testing
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vitest,jest,testinglibrary,playwright)](https://skillicons.dev)
