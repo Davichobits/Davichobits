@@ -1,7 +1,7 @@
 ## 🚀 Tech Stack
 
 ### 🧠 Languages
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,dart)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,dart,lua)](https://skillicons.dev)
 
 ### 🎨 Frontend (Web)
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,astro,redux,zustand,html,css,sass,tailwind,materialui)](https://skillicons.dev)
